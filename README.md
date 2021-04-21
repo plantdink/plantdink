@@ -1,6 +1,6 @@
 # Hi there, I'm Ken
 
-[![Linkedin Badge](https://img.shields.io/badge/-kenlivesey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kenlivesey)](https://www.linkedin.com/in/kenlivesey)
+[![Linkedin Badge](https://img.shields.io/badge/-kenlivesey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kenlivesey)](https://www.linkedin.com/in/kenlivesey) [![Resume Badge](img.shields.io/badge/-resume-blue?style=for-the-badge&logo=Google-Drive&logoColor=white&link=https://drive.google.com/file/d/15QSMLvrZITqJCumXr2eHxCXo4QV29irj/view?usp=sharing)](https://drive.google.com/file/d/15QSMLvrZITqJCumXr2eHxCXo4QV29irj/view?usp=sharing)
 
 ## Things I am currently Learning
 <img src = 'https://github.com/plantdink/plantdink/blob/main/images/python.svg' width='30'/>  <img src = 'https://github.com/plantdink/plantdink/blob/main/images/amazonaws.svg' width='30'/>
