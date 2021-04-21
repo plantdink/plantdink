@@ -2,6 +2,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-kenlivesey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kenlivesey)](https://www.linkedin.com/in/kenlivesey)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Things I am currently Learning
 <img src = 'https://github.com/plantdink/plantdink/blob/main/images/python.svg' width='30'/>  <img src = 'https://github.com/plantdink/plantdink/blob/main/images/amazonaws.svg' width='30'/>
 
