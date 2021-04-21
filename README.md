@@ -1,6 +1,6 @@
 # Hi there, I'm Ken
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ken Livesey-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kenlivesey)]
+[![Linkedin Badge](https://img.shields.io/badge/-Ken Livesey-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kenlivesey)](https://www.linkedin.com/in/kenlivesey)
 
 ## Things I am currently Learning
 Python
