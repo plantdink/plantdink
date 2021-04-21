@@ -37,7 +37,7 @@
 - <img src = 'https://github.com/plantdink/plantdink/blob/main/images/adobepremierepro.svg' width='30'/> Premiere Pro
 - <img src = 'https://github.com/plantdink/plantdink/blob/main/images/adobeaftereffects.svg' width='30'/> After Effects
 - <img src = 'https://github.com/plantdink/plantdink/blob/main/images/adobeindesign.svg' width='30'/> InDesign
-- <img src = 'https://github.com/plantdink/plantdink/blob/main/imagesadobelightroom.svg' width='30'/> Lightroom
+- <img src = 'https://github.com/plantdink/plantdink/blob/main/images/adobelightroom.svg' width='30'/> Lightroom
 - <img src = 'https://github.com/plantdink/plantdink/blob/main/images/adobexd.svg' width='30'/> Xd
 - <img src = 'https://github.com/plantdink/plantdink/blob/main/images/figma.svg' width='30'/> Figma
 - <img src = 'https://github.com/plantdink/plantdink/blob/main/images/sketch.svg' width='30'/> Sketch
