@@ -2,6 +2,10 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-kenlivesey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kenlivesey)](https://www.linkedin.com/in/kenlivesey)
 
+![Ken's github stats](https://github-readme-stats.vercel.app/api?username=plantdink&show_icons=true&hide=[%22issues%22])
+
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=plantdink&layout=compact">
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
