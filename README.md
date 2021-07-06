@@ -7,7 +7,7 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=plantdink&layout=compact">
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My Github Data** 
 
@@ -50,16 +50,18 @@ Sunday       10 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 hrs 11 mins       █████████████░░░░░░░░░░░░   52.56% 
+HTML                     1 hr 44 mins        ██████████░░░░░░░░░░░░░░░   42.02% 
+CSS                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.42%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 9 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+django_intro             4 hrs 9 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 hrs 9 mins        █████████████████████████   100.0%
 
 ```
 
@@ -78,7 +80,7 @@ Python                   2 repos             ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/plantdink/plantdink/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/07/2021
+ Last Updated on 06/07/2021
 <!--END_SECTION:waka-->
 
 ## Things I am currently Learning
