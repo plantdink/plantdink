@@ -50,18 +50,16 @@ Sunday       10 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-YAML                     1 hr 16 mins        ███████████████████░░░░░░   77.65% 
-Docker                   21 mins             █████░░░░░░░░░░░░░░░░░░░░   21.44% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.91%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 38 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-containers               1 hr 38 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 38 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -80,7 +78,7 @@ Python                   2 repos             ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/plantdink/plantdink/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/09/2021
+ Last Updated on 02/10/2021
 <!--END_SECTION:waka-->
 
 ## Things I am currently Learning
