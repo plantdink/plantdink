@@ -13,7 +13,7 @@
 
 > 🏆 140 Contributions in the Year 2021
  > 
-> 📦 7.2 kB Used in GitHub's Storage 
+> 📦 7.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -78,7 +78,7 @@ Python                   2 repos             ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/plantdink/plantdink/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/11/2021
+ Last Updated on 13/11/2021
 <!--END_SECTION:waka-->
 
 ## Things I am currently Learning
