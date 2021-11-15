@@ -50,16 +50,18 @@ Sunday       10 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               5 mins              ██████████████░░░░░░░░░░░   58.82% 
+Docker                   3 mins              █████████░░░░░░░░░░░░░░░░   37.02% 
+HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.16%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  8 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+freecodecamp             8 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      8 mins              █████████████████████████   100.0%
 
 ```
 
@@ -78,7 +80,7 @@ Python                   2 repos             ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/plantdink/plantdink/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/11/2021
+ Last Updated on 15/11/2021
 <!--END_SECTION:waka-->
 
 ## Things I am currently Learning
