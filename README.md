@@ -52,22 +52,16 @@ Sunday       9 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-JavaScript               2 hrs 3 mins        ██████████████████░░░░░░░   74.14% 
-Docker                   17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.36% 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.82% 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.75% 
-Git Config               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.74%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 46 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-afm-frontend             2 hrs 43 mins       ████████████████████████░   98.54% 
-div2-item-compare        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.91% 
-afm-backend              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.54%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 46 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -88,7 +82,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/plantdink/plantdink/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/05/2022 18:46:22 UTC
+ Last Updated on 19/05/2022 18:53:22 UTC
 <!--END_SECTION:waka-->
 
 ## Things I am currently Learning
