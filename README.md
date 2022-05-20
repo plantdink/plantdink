@@ -82,7 +82,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/plantdink/plantdink/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/05/2022 18:53:22 UTC
+ Last Updated on 20/05/2022 18:46:28 UTC
 <!--END_SECTION:waka-->
 
 ## Things I am currently Learning
