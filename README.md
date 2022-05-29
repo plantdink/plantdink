@@ -9,7 +9,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -82,7 +82,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/plantdink/plantdink/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/05/2022 18:45:32 UTC
+ Last Updated on 29/05/2022 18:45:22 UTC
 <!--END_SECTION:waka-->
 
 ## Things I am currently Learning
