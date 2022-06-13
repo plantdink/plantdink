@@ -52,16 +52,16 @@ Sunday       5 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+afm-frontend             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 ```
 
@@ -82,7 +82,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/plantdink/plantdink/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/06/2022 18:42:01 UTC
+ Last Updated on 13/06/2022 18:46:11 UTC
 <!--END_SECTION:waka-->
 
 ## Things I am currently Learning
