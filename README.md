@@ -52,16 +52,19 @@ Sunday       5 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 min               ███████████████░░░░░░░░░░   62.28% 
+CSS                      0 secs              █████░░░░░░░░░░░░░░░░░░░░   21.51% 
+HTML                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   16.21%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 min               █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+portfolio                0 secs              ████████████░░░░░░░░░░░░░   50.22% 
+pers_portfolio           0 secs              ████████████░░░░░░░░░░░░░   49.78%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 min               █████████████████████████   100.0%
 
 ```
 
@@ -82,7 +85,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/plantdink/plantdink/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/07/2022 18:51:14 UTC
+ Last Updated on 22/07/2022 18:47:44 UTC
 <!--END_SECTION:waka-->
 
 ## Things I am currently Learning
