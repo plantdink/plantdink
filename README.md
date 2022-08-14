@@ -7,7 +7,7 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=plantdink&layout=compact">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-757%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -52,16 +52,17 @@ Sunday       5 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     2 hrs 35 mins       ██████████████████░░░░░░░   74.22% 
+CSS                      53 mins             ██████░░░░░░░░░░░░░░░░░░░   25.78%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 28 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+cloud_resume             3 hrs 28 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 28 mins       █████████████████████████   100.0%
 
 ```
 
@@ -82,7 +83,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/plantdink/plantdink/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/08/2022 18:43:43 UTC
+ Last Updated on 14/08/2022 18:43:48 UTC
 <!--END_SECTION:waka-->
 
 ## Things I am currently Learning
