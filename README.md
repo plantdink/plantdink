@@ -7,7 +7,7 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=plantdink&layout=compact">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-757%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -52,17 +52,18 @@ Sunday       5 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-HTML                     2 hrs 35 mins       ██████████████████░░░░░░░   74.22% 
-CSS                      53 mins             ██████░░░░░░░░░░░░░░░░░░░   25.78%
+HTML                     8 hrs 34 mins       ████████████████░░░░░░░░░   65.05% 
+CSS                      3 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   23.47% 
+JavaScript               1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.49%
 
 🔥 Editors: 
-VS Code                  3 hrs 28 mins       █████████████████████████   100.0%
+VS Code                  12 hrs 25 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-cloud_resume             3 hrs 28 mins       █████████████████████████   100.0%
+cloud_resume             12 hrs 25 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      3 hrs 28 mins       █████████████████████████   100.0%
+Mac                      12 hrs 25 mins      █████████████████████████   100.0%
 
 ```
 
@@ -83,7 +84,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/plantdink/plantdink/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/08/2022 18:43:48 UTC
+ Last Updated on 16/08/2022 18:49:00 UTC
 <!--END_SECTION:waka-->
 
 ## Things I am currently Learning
