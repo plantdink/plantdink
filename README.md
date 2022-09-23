@@ -52,20 +52,16 @@ Sunday       7 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-YAML                     23 mins             █████████████████████░░░░   85.38% 
-Bash                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.87% 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.19% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.03% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  28 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-diveintodocker           28 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      28 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -86,7 +82,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/plantdink/plantdink/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/09/2022 18:50:10 UTC
+ Last Updated on 23/09/2022 18:54:03 UTC
 <!--END_SECTION:waka-->
 
 ## Things I am currently Learning
