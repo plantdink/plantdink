@@ -52,16 +52,16 @@ Sunday       7 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-Bash                     1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-kubernetes-installation-c1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -82,7 +82,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/plantdink/plantdink/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/10/2022 18:51:30 UTC
+ Last Updated on 03/10/2022 18:57:34 UTC
 <!--END_SECTION:waka-->
 
 ## Things I am currently Learning
