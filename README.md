@@ -15,7 +15,7 @@
 
 > 🏆 92 Contributions in the Year 2022
  > 
-> 📦 15.3 kB Used in GitHub's Storage 
+> 📦 15.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -52,13 +52,15 @@ Sunday       7 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-YAML                     2 mins              █████████████████████████   100.0%
+YAML                     2 mins              ███████████████████████░░   92.09% 
+Terraform                0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   7.91%
 
 🔥 Editors: 
 VS Code                  2 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          2 mins              █████████████████████████   100.0%
+Unknown Project          2 mins              ███████████████████████░░   92.09% 
+Getting-Started-Terraform0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   7.91%
 
 💻 Operating System: 
 Mac                      2 mins              █████████████████████████   100.0%
@@ -82,7 +84,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/plantdink/plantdink/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/10/2022 19:09:05 UTC
+ Last Updated on 18/10/2022 19:01:56 UTC
 <!--END_SECTION:waka-->
 
 ## Things I am currently Learning
