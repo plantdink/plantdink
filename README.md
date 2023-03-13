@@ -7,7 +7,7 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=plantdink&layout=compact">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-802%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-803%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -50,17 +50,19 @@ Sunday                   24 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-Terraform                42 mins             █████████████████████████   100.00 % 
+Terraform                1 hr 48 mins        ████████████████████████░   96.55 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 
 🔥 Editors: 
-VS Code                  42 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 52 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mtc-practice             40 mins             ████████████████████████░   94.48 % 
-mtc-terraform            2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+terraform-basics-docker  1 hr 9 mins         ████████████████░░░░░░░░░   62.24 % 
+mtc-practice             40 mins             █████████░░░░░░░░░░░░░░░░   35.67 % 
+mtc-terraform            2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 💻 Operating System: 
-Mac                      42 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 52 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -80,7 +82,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/plantdink/plantdink/main/assets/bar_graph.png)
 
 
- Last Updated on 12/03/2023 18:34:46 UTC
+ Last Updated on 13/03/2023 18:37:01 UTC
 <!--END_SECTION:waka-->
 
 ## Things I am currently Learning
