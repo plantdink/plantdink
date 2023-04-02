@@ -50,17 +50,16 @@ Sunday                   24 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-Terraform                1 hr 33 mins        ███████████████████████░░   92.99 % 
-Other                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 40 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-terraform-basics-docker  1 hr 40 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 40 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -80,7 +79,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/plantdink/plantdink/main/assets/bar_graph.png)
 
 
- Last Updated on 01/04/2023 18:33:06 UTC
+ Last Updated on 02/04/2023 18:32:57 UTC
 <!--END_SECTION:waka-->
 
 ## Things I am currently Learning
