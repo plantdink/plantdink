@@ -7,7 +7,7 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=plantdink&layout=compact">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-806%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-807%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -50,19 +50,19 @@ Sunday                   24 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-Python                   36 mins             ██████████████████████░░░   88.71 % 
-Terraform                3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+Python                   4 hrs 18 mins       █████████████████████████   98.25 % 
+Terraform                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🔥 Editors: 
-VS Code                  40 mins             █████████████████████████   100.00 % 
+VS Code                  4 hrs 22 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-vsketch                  37 mins             ███████████████████████░░   92.42 % 
-terraform-basics-docker  3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+vsketch                  4 hrs 19 mins       █████████████████████████   98.83 % 
+terraform-basics-docker  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 💻 Operating System: 
-Mac                      40 mins             █████████████████████████   100.00 % 
+Mac                      4 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -82,7 +82,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/plantdink/plantdink/main/assets/bar_graph.png)
 
 
- Last Updated on 28/12/2023 18:33:19 UTC
+ Last Updated on 29/12/2023 18:32:52 UTC
 <!--END_SECTION:waka-->
 
 ## Things I am currently Learning
