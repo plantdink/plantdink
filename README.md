@@ -7,7 +7,7 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=plantdink&layout=compact">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-813%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-815%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -85,7 +85,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/plantdink/plantdink/main/assets/bar_graph.png)
 
 
- Last Updated on 01/01/2024 18:33:33 UTC
+ Last Updated on 02/01/2024 18:34:00 UTC
 <!--END_SECTION:waka-->
 
 ## Things I am currently Learning
