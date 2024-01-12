@@ -15,8 +15,6 @@
 
 > 📦 15.5 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 21 Public Repositories 
@@ -80,7 +78,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/plantdink/plantdink/main/assets/bar_graph.png)
 
 
- Last Updated on 11/01/2024 18:33:33 UTC
+ Last Updated on 12/01/2024 18:34:28 UTC
 <!--END_SECTION:waka-->
 
 ## Things I am currently Learning
