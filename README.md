@@ -15,6 +15,8 @@
 
 > 📦 15.5 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 21 Public Repositories 
@@ -48,17 +50,16 @@ Sunday                   24 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-Python                   2 hrs 49 mins       █████████████████████████   99.88 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Python                   0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 49 mins       █████████████████████████   100.00 % 
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-vsketch                  2 hrs 49 mins       █████████████████████████   100.00 % 
+vsketch                  0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 49 mins       █████████████████████████   100.00 % 
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -78,7 +79,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/plantdink/plantdink/main/assets/bar_graph.png)
 
 
- Last Updated on 12/01/2024 18:34:28 UTC
+ Last Updated on 13/01/2024 18:32:48 UTC
 <!--END_SECTION:waka-->
 
 ## Things I am currently Learning
