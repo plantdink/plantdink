@@ -7,7 +7,7 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=plantdink&layout=compact">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-821%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-825%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -48,19 +48,19 @@ Sunday                   24 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-HTML                     4 hrs 7 mins        ████████████████████████░   98.00 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+HTML                     6 hrs 42 mins       █████████████████████████   98.76 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 12 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 47 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cloud_resume             4 hrs 12 mins       █████████████████████████   100.00 % 
+cloud_resume             6 hrs 47 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 12 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -80,7 +80,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/plantdink/plantdink/main/assets/bar_graph.png)
 
 
- Last Updated on 24/12/2024 18:40:51 UTC
+ Last Updated on 25/12/2024 18:40:17 UTC
 <!--END_SECTION:waka-->
 
 ## Things I am currently Learning
