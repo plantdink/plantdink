@@ -7,6 +7,8 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=plantdink&layout=compact">
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-832%20hrs%2042%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
@@ -48,19 +50,18 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-Bash                     2 hrs 31 mins       ████████████████░░░░░░░░░   62.52 % 
-Ruby                     1 hr 12 mins        ████████░░░░░░░░░░░░░░░░░   30.15 % 
-YAML                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Bash                     1 hr 30 mins        ██████████████████░░░░░░░   71.63 % 
+Ruby                     18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+YAML                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  2 hrs 6 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-k8s_learning_cluster     4 hrs 1 min         █████████████████████████   100.00 % 
+k8s_learning_cluster     2 hrs 6 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 1 min         █████████████████████████   100.00 % 
+Mac                      2 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -80,7 +81,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/plantdink/plantdink/main/assets/bar_graph.png)
 
 
- Last Updated on 09/01/2025 18:42:52 UTC
+ Last Updated on 10/01/2025 18:41:56 UTC
 <!--END_SECTION:waka-->
 
 ## Things I am currently Learning
