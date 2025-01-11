@@ -50,18 +50,16 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Australia/Melbourne
 
 💬 Programming Languages: 
-Bash                     1 hr 30 mins        ██████████████████░░░░░░░   71.63 % 
-Ruby                     18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-YAML                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 6 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-k8s_learning_cluster     2 hrs 6 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 6 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -81,7 +79,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/plantdink/plantdink/main/assets/bar_graph.png)
 
 
- Last Updated on 10/01/2025 18:41:56 UTC
+ Last Updated on 11/01/2025 18:39:44 UTC
 <!--END_SECTION:waka-->
 
 ## Things I am currently Learning
