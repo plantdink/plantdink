@@ -7,9 +7,7 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=plantdink&layout=compact">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-832%20hrs%2042%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -24,10 +22,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                96 commits          ████████░░░░░░░░░░░░░░░░░   30.87 % 
-🌆 Daytime                141 commits         ███████████░░░░░░░░░░░░░░   45.34 % 
-🌃 Evening                70 commits          ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
-🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+🌞 Morning                113 commits         █████████░░░░░░░░░░░░░░░░   36.33 % 
+🌆 Daytime                142 commits         ███████████░░░░░░░░░░░░░░   45.66 % 
+🌃 Evening                31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+🌙 Night                  25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
@@ -45,19 +43,19 @@ Sunday                   25 commits          ██░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Australia/Melbourne
+🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    51 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+iTerm2                   51 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+k8s_learning_cluster     51 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      51 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -77,7 +75,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/plantdink/plantdink/main/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2025 18:37:43 UTC
+ Last Updated on 02/02/2025 18:39:45 UTC
 <!--END_SECTION:waka-->
 
 ## Things I am currently Learning
