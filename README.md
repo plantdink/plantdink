@@ -7,11 +7,15 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=plantdink&layout=compact">
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-833%20hrs%2037%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 15.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 11 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -46,16 +50,17 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    51 mins             █████████████████████████   100.00 % 
+Other                    4 hrs 6 mins        ████████████████████████░   96.44 % 
+Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 
 🔥 Editors: 
-iTerm2                   51 mins             █████████████████████████   100.00 % 
+iTerm2                   4 hrs 15 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-k8s_learning_cluster     51 mins             █████████████████████████   100.00 % 
+k8s_learning_cluster     4 hrs 15 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      51 mins             █████████████████████████   100.00 % 
+Mac                      4 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -75,7 +80,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/plantdink/plantdink/main/assets/bar_graph.png)
 
 
- Last Updated on 02/02/2025 18:39:45 UTC
+ Last Updated on 03/02/2025 18:39:55 UTC
 <!--END_SECTION:waka-->
 
 ## Things I am currently Learning
