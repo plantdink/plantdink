@@ -7,15 +7,13 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=plantdink&layout=compact">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-837%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-839%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 15.9 kB Used in GitHub's Storage 
- > 
-> 🏆 11 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -50,17 +48,19 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    6 hrs 41 mins       ████████████████████████░   97.78 % 
-Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Other                    10 hrs 14 mins      ███████████████████░░░░░░   76.12 % 
+Bash                     3 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
 
 🔥 Editors: 
-iTerm2                   6 hrs 50 mins       █████████████████████████   100.00 % 
+iTerm2                   13 hrs 24 mins      █████████████████████████   99.63 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🐱‍💻 Projects: 
-k8s_learning_cluster     6 hrs 50 mins       █████████████████████████   100.00 % 
+k8s_learning_cluster     12 hrs 32 mins      ███████████████████████░░   93.22 % 
+scripts                  54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
 
 💻 Operating System: 
-Mac                      6 hrs 50 mins       █████████████████████████   100.00 % 
+Mac                      13 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -80,7 +80,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/plantdink/plantdink/main/assets/bar_graph.png)
 
 
- Last Updated on 04/02/2025 18:41:18 UTC
+ Last Updated on 05/02/2025 18:41:29 UTC
 <!--END_SECTION:waka-->
 
 ## Things I am currently Learning
