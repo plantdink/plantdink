@@ -7,7 +7,7 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=plantdink&layout=compact">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-875%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-876%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -48,19 +48,19 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    5 hrs 56 mins       ██████████████████░░░░░░░   71.00 % 
-Bash                     2 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   29.00 % 
+Other                    5 hrs 47 mins       ██████████████████░░░░░░░   70.46 % 
+Bash                     2 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   29.54 % 
 
 🔥 Editors: 
-iTerm2                   6 hrs               ██████████████████░░░░░░░   71.87 % 
-VS Code                  2 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   28.13 % 
+iTerm2                   5 hrs 51 mins       ██████████████████░░░░░░░   71.35 % 
+VS Code                  2 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   28.65 % 
 
 🐱‍💻 Projects: 
-scripts                  7 hrs 8 mins        █████████████████████░░░░   85.45 % 
-cloud_init_template      1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+scripts                  7 hrs 9 mins        ██████████████████████░░░   87.14 % 
+cloud_init_template      1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
 
 💻 Operating System: 
-Mac                      8 hrs 21 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -80,7 +80,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/plantdink/plantdink/main/assets/bar_graph.png)
 
 
- Last Updated on 19/02/2025 18:42:13 UTC
+ Last Updated on 20/02/2025 18:42:12 UTC
 <!--END_SECTION:waka-->
 
 ## Things I am currently Learning
