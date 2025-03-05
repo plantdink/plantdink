@@ -15,8 +15,6 @@
 
 > 📦 15.9 kB Used in GitHub's Storage 
  > 
-> 🏆 3 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 23 Public Repositories 
@@ -50,21 +48,16 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 1 hr 5 mins         ████████████░░░░░░░░░░░░░   46.05 % 
-Other                    53 mins             █████████░░░░░░░░░░░░░░░░   37.21 % 
-Terraform                15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-Git Config               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-HCL                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 29 mins        ████████████████░░░░░░░░░   62.79 % 
-iTerm2                   53 mins             █████████░░░░░░░░░░░░░░░░   37.21 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-mtc-dev_env              2 hrs 22 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 22 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -84,7 +77,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/plantdink/plantdink/main/assets/bar_graph.png)
 
 
- Last Updated on 04/03/2025 18:44:05 UTC
+ Last Updated on 05/03/2025 18:44:04 UTC
 <!--END_SECTION:waka-->
 
 ## Things I am currently Learning
