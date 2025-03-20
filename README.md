@@ -7,13 +7,15 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=plantdink&layout=compact">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-893%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-893%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 15.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 3 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -48,20 +50,16 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    9 mins              ███████████████████████░░   90.13 % 
-Python                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Other                    4 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-iTerm2                   9 mins              ███████████████████████░░   90.13 % 
-VS Code                  1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+iTerm2                   4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-aws-devops-pro           5 mins              █████████████░░░░░░░░░░░░   51.43 % 
-bash_scripts             5 mins              ████████████░░░░░░░░░░░░░   48.57 % 
+aws-devops-pro           4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      10 mins             █████████████████████████   100.00 % 
+Mac                      4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -81,7 +79,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/plantdink/plantdink/main/assets/bar_graph.png)
 
 
- Last Updated on 19/03/2025 18:44:46 UTC
+ Last Updated on 20/03/2025 18:42:54 UTC
 <!--END_SECTION:waka-->
 
 ## Things I am currently Learning
