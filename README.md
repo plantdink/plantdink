@@ -7,15 +7,13 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=plantdink&layout=compact">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-893%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-894%20hrs%2048%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 15.9 kB Used in GitHub's Storage 
- > 
-> 🏆 3 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -50,19 +48,19 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Bash                     1 hr 29 mins        ███████████████████████░░   92.25 % 
-Other                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+Bash                     4 hrs 27 mins       ████████████████████████░   94.39 % 
+Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
 
 🔥 Editors: 
-VS Code                  1 hr 29 mins        ███████████████████████░░   92.18 % 
-iTerm2                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+VS Code                  4 hrs 27 mins       ████████████████████████░   94.37 % 
+iTerm2                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
 
 🐱‍💻 Projects: 
-bash_scripts             1 hr 30 mins        ███████████████████████░░   93.25 % 
-aws-devops-pro           6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+bash_scripts             4 hrs 37 mins       ████████████████████████░   97.70 % 
+aws-devops-pro           6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 
 💻 Operating System: 
-Mac                      1 hr 36 mins        █████████████████████████   100.00 % 
+Mac                      4 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -82,7 +80,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/plantdink/plantdink/main/assets/bar_graph.png)
 
 
- Last Updated on 23/03/2025 18:41:19 UTC
+ Last Updated on 24/03/2025 18:45:13 UTC
 <!--END_SECTION:waka-->
 
 ## Things I am currently Learning
