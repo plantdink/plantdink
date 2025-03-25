@@ -7,7 +7,7 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=plantdink&layout=compact">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-894%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-897%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -48,19 +48,19 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Bash                     4 hrs 27 mins       ████████████████████████░   94.39 % 
-Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+Bash                     5 hrs 28 mins       ███████████████████████░░   93.42 % 
+Other                    23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 27 mins       ████████████████████████░   94.37 % 
-iTerm2                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+VS Code                  5 hrs 28 mins       ███████████████████████░░   93.40 % 
+iTerm2                   23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
 
 🐱‍💻 Projects: 
-bash_scripts             4 hrs 37 mins       ████████████████████████░   97.70 % 
-aws-devops-pro           6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+bash_scripts             5 hrs 44 mins       █████████████████████████   98.14 % 
+aws-devops-pro           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 
 💻 Operating System: 
-Mac                      4 hrs 43 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -80,7 +80,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/plantdink/plantdink/main/assets/bar_graph.png)
 
 
- Last Updated on 24/03/2025 18:45:13 UTC
+ Last Updated on 25/03/2025 18:44:32 UTC
 <!--END_SECTION:waka-->
 
 ## Things I am currently Learning
