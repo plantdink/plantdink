@@ -7,8 +7,6 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=plantdink&layout=compact">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-899%20hrs%202%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
@@ -48,19 +46,19 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Bash                     5 hrs 50 mins       ███████████████████████░░   93.85 % 
-Other                    22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Bash                     6 hrs 27 mins       ████████████████████████░   94.29 % 
+Other                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 50 mins       ███████████████████████░░   93.83 % 
-iTerm2                   23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+VS Code                  6 hrs 27 mins       ████████████████████████░   94.27 % 
+iTerm2                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
 
 🐱‍💻 Projects: 
-bash_scripts             6 hrs 11 mins       █████████████████████████   99.47 % 
-aws-devops-pro           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+bash_scripts             6 hrs 48 mins       █████████████████████████   99.51 % 
+aws-devops-pro           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 💻 Operating System: 
-Mac                      6 hrs 13 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -80,7 +78,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/plantdink/plantdink/main/assets/bar_graph.png)
 
 
- Last Updated on 26/03/2025 18:44:27 UTC
+ Last Updated on 27/03/2025 18:44:17 UTC
 <!--END_SECTION:waka-->
 
 ## Things I am currently Learning
