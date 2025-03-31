@@ -7,13 +7,15 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=plantdink&layout=compact">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-900%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-900%20hrs%2018%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 15.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 3 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -48,18 +50,18 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Bash                     5 hrs 1 min         ███████████████████████░░   91.41 % 
-Other                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+Bash                     2 hrs 5 mins        ██████████████████████░░░   86.02 % 
+Other                    20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 1 min         ███████████████████████░░   91.40 % 
-iTerm2                   28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+VS Code                  2 hrs 5 mins        ██████████████████████░░░   86.01 % 
+iTerm2                   20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
 
 🐱‍💻 Projects: 
-bash_scripts             5 hrs 30 mins       █████████████████████████   100.00 % 
+bash_scripts             2 hrs 25 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 30 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -79,7 +81,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/plantdink/plantdink/main/assets/bar_graph.png)
 
 
- Last Updated on 30/03/2025 18:41:05 UTC
+ Last Updated on 31/03/2025 18:44:50 UTC
 <!--END_SECTION:waka-->
 
 ## Things I am currently Learning
