@@ -7,13 +7,13 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=plantdink&layout=compact">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-904%20hrs%202%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 16.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 7 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -21,45 +21,6 @@
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                110 commits         █████████░░░░░░░░░░░░░░░░   36.07 % 
-🌆 Daytime                141 commits         ████████████░░░░░░░░░░░░░   46.23 % 
-🌃 Evening                29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-🌙 Night                  25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   55 commits          █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
-Tuesday                  30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-Wednesday                82 commits          ███████░░░░░░░░░░░░░░░░░░   26.89 % 
-Thursday                 65 commits          █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
-Friday                   34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-Saturday                 14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-Sunday                   25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -77,7 +38,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/plantdink/plantdink/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2025 18:44:57 UTC
+ Last Updated on 16/09/2025 18:44:43 UTC
 <!--END_SECTION:waka-->
 
 ## Things I am currently Learning
