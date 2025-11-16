@@ -7,13 +7,11 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=plantdink&layout=compact">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-904%20hrs%202%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 16.0 kB Used in GitHub's Storage 
+> 📦 16.1 kB Used in GitHub's Storage 
  > 
 > 🏆 7 Contributions in the Year 2025
  > 
@@ -79,7 +77,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/plantdink/plantdink/main/assets/bar_graph.png)
 
 
- Last Updated on 15/11/2025 18:43:14 UTC
+ Last Updated on 16/11/2025 18:43:49 UTC
 <!--END_SECTION:waka-->
 
 ## Things I am currently Learning
