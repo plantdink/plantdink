@@ -7,7 +7,7 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=plantdink&layout=compact">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-904%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-904%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -79,7 +79,7 @@ HCL                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/plantdink/plantdink/main/assets/bar_graph.png)
 
 
- Last Updated on 21/12/2025 18:46:48 UTC
+ Last Updated on 22/12/2025 18:51:08 UTC
 <!--END_SECTION:waka-->
 
 ## Things I am currently Learning
