@@ -7,8 +7,6 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=plantdink&layout=compact">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-904%20hrs%2053%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -50,16 +48,16 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    41 mins             █████████████████████████   100.00 % 
+Other                    44 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-iTerm2                   41 mins             █████████████████████████   100.00 % 
+iTerm2                   44 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-laptop_setup             41 mins             █████████████████████████   100.00 % 
+laptop_setup             44 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      41 mins             █████████████████████████   100.00 % 
+Mac                      44 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -79,7 +77,7 @@ HCL                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/plantdink/plantdink/main/assets/bar_graph.png)
 
 
- Last Updated on 31/01/2026 18:54:07 UTC
+ Last Updated on 01/02/2026 18:57:41 UTC
 <!--END_SECTION:waka-->
 
 ## Things I am currently Learning
