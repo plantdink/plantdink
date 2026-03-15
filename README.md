@@ -9,7 +9,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-905%20hrs%2054%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -79,7 +79,7 @@ HCL                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/plantdink/plantdink/main/assets/bar_graph.png)
 
 
- Last Updated on 14/03/2026 19:01:41 UTC
+ Last Updated on 15/03/2026 19:03:10 UTC
 <!--END_SECTION:waka-->
 
 ## Things I am currently Learning
