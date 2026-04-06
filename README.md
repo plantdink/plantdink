@@ -7,7 +7,7 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=plantdink&layout=compact">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-906%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-906%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -50,16 +50,19 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    54 mins             █████████████████████████   100.00 % 
+Other                    1 hr 31 mins        █████████████████████░░░░   83.02 % 
+Markdown                 18 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
 
 🔥 Editors: 
-iTerm2                   54 mins             █████████████████████████   100.00 % 
+iTerm2                   1 hr 31 mins        █████████████████████░░░░   83.02 % 
+VS Code                  18 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
 
 🐱‍💻 Projects: 
-laptop_setup             54 mins             █████████████████████████   100.00 % 
+laptop_setup             1 hr                ██████████████░░░░░░░░░░░   55.03 % 
+homelab                  49 mins             ███████████░░░░░░░░░░░░░░   44.97 % 
 
 💻 Operating System: 
-Mac                      54 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 49 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -79,7 +82,7 @@ HCL                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/plantdink/plantdink/main/assets/bar_graph.png)
 
 
- Last Updated on 05/04/2026 19:07:57 UTC
+ Last Updated on 06/04/2026 19:34:02 UTC
 <!--END_SECTION:waka-->
 
 ## Things I am currently Learning
