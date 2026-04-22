@@ -50,21 +50,16 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    26 mins             ███████████░░░░░░░░░░░░░░   44.42 % 
-Markdown                 19 mins             ████████░░░░░░░░░░░░░░░░░   32.77 % 
-Nix                      12 mins             █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
-Terraform                1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-iTerm2                   24 mins             ██████████░░░░░░░░░░░░░░░   41.80 % 
-Unknown Editor           21 mins             █████████░░░░░░░░░░░░░░░░   35.90 % 
-VS Code                  13 mins             ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-homelab                  59 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      59 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -84,7 +79,7 @@ HCL                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/plantdink/plantdink/main/assets/bar_graph.png)
 
 
- Last Updated on 21/04/2026 19:42:58 UTC
+ Last Updated on 22/04/2026 19:45:13 UTC
 <!--END_SECTION:waka-->
 
 ## Things I am currently Learning
