@@ -9,7 +9,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-925%20hrs%209%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -50,16 +50,22 @@ Sunday                   25 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    2 hrs 32 mins       ███████████████████░░░░░░   77.19 % 
+Terraform                11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+iTerm2                   2 hrs 9 mins        ████████████████░░░░░░░░░   65.72 % 
+VS Code                  1 hr 7 mins         █████████░░░░░░░░░░░░░░░░   34.28 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+homelab                  3 hrs 16 mins       █████████████████████████   99.22 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -79,7 +85,7 @@ HCL                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/plantdink/plantdink/main/assets/bar_graph.png)
 
 
- Last Updated on 01/05/2026 19:46:03 UTC
+ Last Updated on 02/05/2026 19:31:20 UTC
 <!--END_SECTION:waka-->
 
 ## Things I am currently Learning
